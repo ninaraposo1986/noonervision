@@ -1,0 +1,179 @@
+#rainbowTitle {
+    font-family: 'Fredoka One', cursive;
+    opacity: .87;
+    width: 400px;
+    height: 150px;
+    padding: 15px;
+    margin: 10px;
+    border: 10px double white;
+    border-radius: 25%;
+    font-size: 44px;
+  }
+  
+  p {
+    color: pink;
+    font-family: courier new;
+    }
+  .subby2me {
+    position: absolute;
+    background: black;
+    padding: 1px;
+    margin: 5px;
+    left: 650px;
+    top: 1400px
+    
+    
+  }
+  
+  a {
+    color: aquamarine;
+  }
+  
+  .kao {
+    
+    left: 832px;
+    top: 225px;
+    position: absolute;
+    
+    
+  }
+  
+  .nooner {
+    font-family: 'Fredoka One', cursive;
+    font-size:40px;
+    color: white;
+    width: 700px;
+    border: 10px double white;
+    border-radius: 10px;
+    position: relative;
+    top: 400px;
+  }
+  
+  .aboutMePic {
+    position: relative;
+    top: 845px;
+    right: 213px;
+    border: 10px double white;
+    border-radius: 10px;
+    width: 270px;
+    height: 300px;
+    
+  }
+  
+  ul {
+    color: white;
+  }
+  
+  #musicNote1 {
+   position: absolute;
+   top: 42px;
+   left: 460px;  
+    }
+  
+  #musicNote2 {
+   position: absolute;
+   top: 42px;
+   right: 460px;
+   -moz-transform: scaleX(-1);
+   -o-transform: scaleX(-1);
+   -webkit-transform: scaleX(-1);
+   transform: scaleX(-1);
+   filter: FlipH;
+   -ms-filter: "FlipH";
+    }
+  
+  .merryBox {
+    position: absolute;
+    top: 490px;
+    left: 595px;
+    border: 10px double white;
+    border-radius: 10px;
+    }
+  
+  .gurlBox {
+    position: absolute;
+    top: 490px;
+    right: 595px;
+    border: 10px double white;
+    border-radius: 10px;
+    }
+  
+  .arch {
+    position: absolute;  
+    left: 595px;
+    top: 734px;
+    border: 10px double white;
+    border-radius: 10px;
+    }
+    
+   #change {
+    position: absolute;
+    top: 734px;
+    right: 595px;
+    border: 10px double white;
+    border-radius: 10px;
+     }
+  
+    
+  #thanks {
+   color:violet;
+   background: black;
+   font-family: "Courier New",Courier,monospace;
+   position: absolute;
+   top: 455px;
+   left: 615px;
+  
+    }
+  
+  .sheIs {
+    background-color: violet;
+    color: black;
+    font-family: "Courier New",Courier,monospace;
+    position: relative;
+    border-radius: 15%;
+    left: 900px;
+    top: 367px;
+    }
+  
+  #blueText {
+  
+    font-family: arial;
+    position: absolute;
+    left: 870px;
+    top: 1250px;
+    
+  }
+  
+  .notMyCreation {
+    position: relative;
+    left: 1200px;
+    top: 525px;
+  }
+  
+  body {
+    color:white;
+    background-image: url("https://i.imgur.com/VyIj4hm.gif");
+    background-repeat: repeat;
+    background-position: right top;
+    background-attachment: fixed;
+    }
+  
+  .poptext{
+    padding:2px;
+    color:lime;
+    background:magenta;
+  }
+  .poptext2{
+    padding:2px;
+    color:cyan;
+    background:gold;
+  }
+  
+  .matchaColor{
+    padding:2px;
+    color:#00FF7F;
+    background:#008000;
+  }
+  li{
+    margin-bottom:3px;
+  }
